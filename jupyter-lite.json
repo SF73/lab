@@ -10,6 +10,6 @@
     "contentsStorageDrivers": [
       "memoryStorageDriver"
     ],
-    "appName": "My JupyterLite App"
+    "appName": "A JupyterLite Lab"
   }
 }

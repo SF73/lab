@@ -9,7 +9,6 @@
     "enableMemoryStorage": true,
     "contentsStorageDrivers": [
       "memoryStorageDriver"
-    ],
-    "appName": "My JupyterLite App"
+    ]
   }
 }
